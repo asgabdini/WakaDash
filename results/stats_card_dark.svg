@@ -1,8 +1,8 @@
 
     <svg
-        width="420"
-        height="300"
-        viewBox="0 0 420 300"
+        width="700"
+        height="180"
+        viewBox="0 0 700 180"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
     >
@@ -11,8 +11,8 @@
         <rect
             x="1"
             y="1"
-            width="418"
-            height="298"
+            width="698"
+            height="178"
             rx="22"
             fill="#1C1C1C"
             stroke="#30363D"
@@ -21,32 +21,32 @@
 
         
         <line
-            x1="28"
-            y1="150.0"
-            x2="392"
-            y2="150.0"
+            x1="350.0"
+            y1="28"
+            x2="350.0"
+            y2="152"
             stroke="#30363D"
             stroke-width="1"
         />
         
 
         
-        <!-- Daily Average Accent -->
+        <!-- Left Accent -->
         <rect
             x="28"
-            y="32"
+            y="36"
             width="7"
-            height="86.0"
+            height="108"
             rx="4"
             fill="#8A9DFF"
         />
 
-        <!-- Best Day Accent -->
+        <!-- Right Accent -->
         <rect
-            x="28"
-            y="182.0"
+            x="378.0"
+            y="36"
             width="7"
-            height="86.0"
+            height="108"
             rx="4"
             fill="#92EFB4"
         />
@@ -56,7 +56,7 @@
         <!-- Daily Average -->
         <text
             x="52"
-            y="60"
+            y="70"
             fill="#9CA3AF"
             font-family="Inter, Segoe UI, sans-serif"
             font-size="17"
@@ -67,19 +67,19 @@
 
         <text
             x="52"
-            y="100"
+            y="110"
             fill="#F5F7FA"
             font-family="Inter, Segoe UI, sans-serif"
             font-size="26"
             font-weight="700"
         >
-            1 hr 39 mins
+            1 hr 1 min
         </text>
 
         <!-- Best Day -->
         <text
-            x="52"
-            y="205.0"
+            x="402.0"
+            y="70"
             fill="#9CA3AF"
             font-family="Inter, Segoe UI, sans-serif"
             font-size="17"
@@ -89,25 +89,25 @@
         </text>
 
         <text
-            x="52"
-            y="235.0"
+            x="402.0"
+            y="108"
             fill="#F5F7FA"
             font-family="Inter, Segoe UI, sans-serif"
-            font-size="23.333333333333332"
+            font-size="24"
             font-weight="700"
         >
-            11 hrs 33 mins
+            11 hrs 52 mins
         </text>
 
         <text
-            x="52"
-            y="262.0"
+            x="402.0"
+            y="132"
             fill="#9CA3AF"
             font-family="Inter, Segoe UI, sans-serif"
             font-size="15"
             font-weight="500"
         >
-            26 Aug 2026
+            09 Aug 2026
         </text>
         
 
