@@ -1,12 +1,12 @@
 {
-    "stats_range": "last_7_days",
+    "stats_range": "last_30_days",
     "language_limit": 6,
     "badges": {
         "best_badge_right_color": "yellowgreen",
         "best_badge_left_color": "grey",
         "avg_badge_right_color": "tomato",
         "avg_badge_left_color": "grey",
-        "badge_style": "flat-square"
+        "badge_style": "social"
     },
-    "stats_card_layout": "vertical"
+    "stats_card_layout": "Horizontal"
 }
